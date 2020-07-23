@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ⚡ JavaScript ⚡ Bootstrap ⚡ ReactJS ⚡ Web ⚡ Firebase ⚡ NodeJS ⚡ HTML ⚡ CSS ⚡ Git ⚡ Github
 
 🔭 Characteristics: 
-💻 Inquisitive, 😄 Learner 😄 Self-Driven, 💻 Self-Taught
+💻 Inquisitive  💻 Learner 😄 Self-Driven

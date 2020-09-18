@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am way too curious or way too disinterested! Nothing in between!
 -->
 🔭 Tools & Technologies: 
-⚡ JavaScript ⚡ Bootstrap ⚡ ReactJS ⚡ Web ⚡ Firebase ⚡ NodeJS ⚡ HTML ⚡ CSS ⚡ Git ⚡ Github
+⚡ JavaScript ⚡ Bootstrap ⚡ ReactJS ⚡ Web ⚡ Firebase ⚡ NodeJS ⚡ HTML ⚡ CSS ⚡ Unity
 
 🔭 Characteristics: 
 💻 Inquisitive  💻 Learner 😄 Self-Driven

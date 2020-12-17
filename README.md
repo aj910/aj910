@@ -6,16 +6,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Projects
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS, Angular
 - 👯 I’m looking to collaborate on Medium by writing technical articles
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Web Development (Front End in specific)
 - 📫 How to reach me: LinkedIn, Medium
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am way too curious or way too disinterested! Nothing in between!
 -->
 🔭 Tools & Technologies: 
-⚡ JavaScript ⚡ Bootstrap ⚡ ReactJS ⚡ Web ⚡ Firebase ⚡ NodeJS ⚡ HTML ⚡ CSS ⚡ Unity
+⚡ JavaScript ⚡ Bootstrap ⚡ AngularJS ⚡ ReactJS ⚡ Web ⚡ Firebase ⚡ NodeJS ⚡ HTML ⚡ CSS 
 
 🔭 Characteristics: 
 💻 Inquisitive  💻 Learner 😄 Self-Driven

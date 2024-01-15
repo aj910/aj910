@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://anmol09.hashnode.dev/](https://anmol09.hashnode.dev/)
 
-- 💬 Ask me about **JavaScript, ReactJS**
+- 💬 Ask me about **Frontend Development, JavaScript, ReactJS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/anmoljain09/**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Music Player Application](https://aj910.github.io/music-player/) & [Platform Game](https://aj910.github.io/platform-game/)
 
-- 🌱 I’m currently learning **MERN Stack & Backend**
+- 🌱 I’m currently learning **Redux, Typescript, MERN Stack**
 
 - 📝 I regularly write articles on [https://anmol09.hashnode.dev/](https://anmol09.hashnode.dev/)
 

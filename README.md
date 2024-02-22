@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anmol Jain</h1>
-<h3 align="center">Hello Everyone, Thank you for stopping by! I am a passionate, attentive and an engrossed frontend developer who believes in problem solving, with an eagerness to learn further more in the field of technology domain along with my current expertise. I possess good communication skills and believe in teamwork.</h3>
+<h3 align="center">Thank you for stopping by! I am a passionate, attentive and an engrossed frontend developer who believes in problem solving, with an eagerness to learn further more in the field of technology domain along with my current expertise. I possess good communication skills and believe in teamwork.</h3>
 
-- 🔭 I’m currently working on [Music Player Application](https://aj910.github.io/music-player/) & [Platform Game](https://aj910.github.io/platform-game/)
+- 🔭 I have worked on some projects [Music Player Application](https://aj910.github.io/music-player/) & [Platform Game](https://aj910.github.io/platform-game/)
 
 - 🌱 I’m currently learning **Redux, Typescript, MERN Stack**
 
-- 📝 I regularly write articles on [https://anmol09.hashnode.dev/](https://anmol09.hashnode.dev/)
+- 📝 I write articles on [https://anmol09.hashnode.dev/](https://anmol09.hashnode.dev/)
 
 - 💬 Ask me about **Frontend Development, JavaScript, ReactJS**
 

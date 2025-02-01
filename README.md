@@ -3,7 +3,7 @@
 
 - 🔭 I have worked on some projects [Music Player Application](https://aj910.github.io/music-player/) & [Platform Game](https://aj910.github.io/platform-game/)
 
-- 🌱 I’m currently learning **Redux, Typescript, MERN Stack**
+- 🌱 I’m currently learning **Redux, Typescript, >NET Framework, ASP.NET Core**
 
 - 📝 I write articles on [https://anmol09.hashnode.dev/](https://anmol09.hashnode.dev/)
 
